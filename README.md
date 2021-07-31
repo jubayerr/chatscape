@@ -1,15 +1,7 @@
-# Unichat Application
+# Chatscape Application
 
-![Chat Application](https://i.ibb.co/GJwyy9m/Bv9-Js3-QLOLY-HD.jpg)
+Here you can visit live - [Chatscape](https://chatscape.netlify.app/)
 
-## Introduction
+## About this Project
 
-This is a code repository for the corresponding video tutorial. In this video, we create a full Realtime Chat Application with Social Auth and dedicated chat APIs/sockets.
-
-You will learn how to build a react chat app using [https://chatengine.io](https://chatengine.io)
-
-Firebase and Chat Engine are greats tools to setup apps fast and easily - great to learn with!
-
-### Bonus - E-mail notifications
-
-If you want to upgrade this chat application even further than what is shown in the video, you can add e-mail notifications. More info on https://chatengine.io/docs/email_notifications.
+This is a react js chat application with firebase authentication which is built with ChatEngine. So you can login with facebook or google account. You can create a room and add friends to chat each other. Enjoy!
